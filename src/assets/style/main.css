@@ -1,0 +1,51 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#app{
+    width: 400px;
+    margin: 0 auto;
+}
+
+.form-group{
+    margin-bottom: 20px;
+}
+
+.form-group > label{
+    margin-bottom: 9.3px;
+}
+
+.checkbox-group{
+    display: inline;
+}
+
+.result-group h4, .result-group p{
+    margin: 0;
+}
+
+.result-group{
+    margin-bottom: 20px;
+}
+
+.alert-success p{
+    margin: 0;
+}
+
+.alert-success{
+    background-color: #73ac63;
+    border: 1px solid #5B9E48;
+    padding: 7px;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.btn-submit{
+    background-color: #5B9E48;
+    color: white;
+}
+
+.btn-reset{
+    background-color: #9F0101;
+    color: white;
+}
